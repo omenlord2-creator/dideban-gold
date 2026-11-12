@@ -1,0 +1,2 @@
+# dideban-gold
+gold
